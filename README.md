@@ -7,6 +7,8 @@ Fall Detection in EHR using Word Embeddings and Deep Learning
 
 **Keywords:** Fall Detection, Electronic Health Records, Text Classification, Word Embeddings, Deep Learning
 
+[Full Text](https://ieeexplore.ieee.org/document/8941806), [BibText](https://raw.githubusercontent.com/nlp-pucrs/fall-detection/master/santos2019fall.bib)
+
 ### Online Experiments
 ##### Run our experiments online with Binder
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nlp-pucrs/fall-detection/master)
